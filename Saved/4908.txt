@@ -1,0 +1,29 @@
+	Xaridingiz Uchun Tashakkur
+
+Bugun: 03.10.2025
+Hisob Raqami: 4908
+Mijoz Nomi: Jasur Kenjayev
+Telefon Raqami: +998935900000
+======================================
+ Mahsulotlar		Miqdor		Narxi
+ Olma		2		30000
+ Nok		1		20000
+ Shaftoli		3		30000
+ Limon		1		25000
+ Anjir		3		105000
+ Guruch		3		60000
+ Sabzi		2		20000
+ Piyoz		2		12000
+ Yog'		3		66000
+ Gorilla		3		36000
+ Moxito		4		52000
+ Fanta		1		15000
+ Flash		2		24000
+--------------------------------------
+
+ Mevalar Solig'i			10500.0 UZS 
+ Oziq-Ovqat Solig'i			31600.0 UZS 
+ Ichimliklar Solig'i			12700.0 UZS 
+
+ Jami:			 549800.0 UZS
+--------------------------------------
